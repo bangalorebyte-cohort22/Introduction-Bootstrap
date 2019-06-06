@@ -7,6 +7,8 @@
 # Assignments 
 * Create UI clone of the website - https://eplpred.herokuapp.com/
 * Create UI as shown in the image below.
+![alt text](https://github.com/bangalorebyte-cohort22/Introduction-Bootstrap/blob/master/bootstrap%20assignment.png)
+
 
 
 
